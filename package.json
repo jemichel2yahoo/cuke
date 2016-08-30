@@ -1,0 +1,27 @@
+{
+  "name": "cuke",
+  "version": "1.0.0",
+  "description": "Cucumber JavaScript Toy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemichel2yahoo/cuke.git"
+  },
+  "keywords": [
+    "cucumber",
+    "gherkin",
+    "javascript",
+    "js",
+    "node",
+    "toy"
+  ],
+  "author": "Jeffrey Michel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemichel2yahoo/cuke/issues"
+  },
+  "homepage": "https://github.com/jemichel2yahoo/cuke#readme"
+}
