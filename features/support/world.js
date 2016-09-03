@@ -1,7 +1,7 @@
 // features/support/world.js
-function World() {
+World = () => {
 }
 
-module.exports = function() {
-  this.World = World;
-};
+module.exports = () => {
+  this.World = World
+}
