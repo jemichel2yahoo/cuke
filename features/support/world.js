@@ -1,7 +1,8 @@
 // features/support/world.js
-World = () => {
+function World() {
+  this.greeting = 'hello'
 }
 
-module.exports = () => {
+module.exports = function() {
   this.World = World
 }
